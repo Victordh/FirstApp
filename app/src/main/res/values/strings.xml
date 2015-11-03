@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Guess which number the computer has in mind!</string>
+    <string name="hint">Try guessing between 0 and 1000.</string>
+    <string name="show_hint">Show hint</string>
+    <string name="hide_hint">Hide hint</string>
+    <string name="up_arrow">The computer\'s number is higher!</string>
+    <string name="down_arrow">The computer\'s number is lower!</string>
+    <string name="guess">500</string>
+    <string name="reset">Reset</string>
+    <string name="number_of_guesses">Number of guesses:</string>
+    <string name="number">0</string>
+    <string name="submit_guess">Guess!</string>
+    <string name="win">You did it!</string>
+</resources>
